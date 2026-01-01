@@ -1,4 +1,4 @@
-version=2
-message=Versi terbaru sudah rilis!\n- Perbaikan bug\n- Fitur baru\n- Performa lebih ringan
-apk=https://drive.google.com/uc?id=FILE_ID
-telegram=https://t.me/+kM-JG6OYnj82Nzg1
+4060300
+Versi terbaru sudah rilis!\n- Perbaikan bug\n- Fitur baru\n- Performa lebih ringan
+https://drive.google.com/uc?id=FILE_ID
+https://t.me/+kM-JG6OYnj82Nzg1
