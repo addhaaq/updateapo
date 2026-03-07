@@ -2,7 +2,7 @@
   "status": "on",
   "v_mod": "1.0.1",
   "interval": 5,
-  "interval_on": 60,
+  "interval_on": 5,
   "msg_info": "PENGUMUMAN: Server akan maintenance jam 12 malam nanti ya!",
   "msg": "LOG UPDATE:\n- Penambahan sistem interval waktu\n- Perbaikan bug popup\n- Pemisahan pesan info dan update",
   "url_txt": "https://raw.githubusercontent.com/addhaaq/updateapo/refs/heads/main/pesan.txt",
