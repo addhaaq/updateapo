@@ -4,7 +4,7 @@
   "interval": 5,
   "interval_on": 5,
   "msg_info": "PENGUMUMAN: Server akan maintenance jam 12 malam nanti ya!",
-  "msg": "LOG UPDATE:\n- Based on APO 470\n- Penambahan tombol Jeda di Live Tracking\n- Penambahan interval GPS Live Tracking\n- Baterai hp akan lebih awet dan tidak boros karena pengoptimalan gps difitur Live Tracking",
+  "msg": "LOG UPDATE:\n\n- Based on APO 470\n- Penambahan tombol Jeda di Live Tracking\n- Penambahan interval GPS Live Tracking\n- Baterai hp akan lebih awet dan tidak boros karena   pengoptimalan gps difitur Live Tracking",
   "url_txt": "https://raw.githubusercontent.com/addhaaq/updateapo/refs/heads/main/pesan.txt",
   "url_dl": "https://drive.google.com/file/d/10bH0scBqz0MQbZKhuFbw4uwQ0EFbHfou/view?usp=drivesdk",
   "url_tg": "https://t.me/+upWOIH2Val9kYWQ1"
