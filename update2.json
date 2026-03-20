@@ -1,11 +1,11 @@
 {
   "status": "normal",
-  "v_mod": "1.0.0",
+  "v_mod": "1.0.1",
   "interval": 0,
   "interval_on": 0,
   "msg_info": "PENGUMUMAN: Server akan maintenance jam 12 malam nanti ya!",
   "msg": "LOG UPDATE:\n\n- Based on APO 470\n- Pengoptimalan GPS supaya baterai lebih awet\n- Penambahan interval GPS Live Tracking\n",
   "url_txt": "https://raw.githubusercontent.com/addhaaq/updateapo/refs/heads/main/pesan.txt",
-  "url_dl": "https://drive.google.com/file/d/10bH0scBqz0MQbZKhuFbw4uwQ0EFbHfou/view?usp=drivesdk",
+  "url_dl": "https://drive.google.com/file/d/1dYthgaWTpndhjSXobvyJi-i8e1bAG8lP/view?usp=drivesdk",
   "url_tg": "https://t.me/+upWOIH2Val9kYWQ1"
 }
