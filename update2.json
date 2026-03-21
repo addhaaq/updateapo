@@ -1,8 +1,8 @@
 {
-  "status": "normal",
+  "status": "on",
   "v_mod": "1.0.1",
   "interval": 30,
-  "interval_on": 0,
+  "interval_on": 30,
   "msg_info": "Demi menjaga kekusyukan dalam beribadah,\nuntuk sementara APO MOD saya kunci(Bekukan) dan\nsaya buka setelah selesai sholat ied.\nUntuk keperluan packing dll silakan pakai APO ori. Terimakasih\n\n\nSelamat Hari Raya Idul Fitri\nMinal Aidzin Walfaidzin, Mohon Maaf lahir dan batin\n~Adha dan Segenap tim TakimichiMod~",
   "url_txt": "https://raw.githubusercontent.com/addhaaq/updateapo/refs/heads/main/pesan.txt",
   "msg": "ChangeLog :\n\n- Based On APO 470\n- Pengoptimalan GPS\n- Baterai lebih irit\n- Penambahan interval Live Tracking\n\n\nSelamat Hari Raya Idul Fitri\nMinal Aidzin Walfaidzin, Mohon Maaf lahir dan batin\n~Adha dan Segenap tim TakimichiMod~",
